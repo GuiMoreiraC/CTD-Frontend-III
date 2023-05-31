@@ -1,0 +1,15 @@
+.color-form-container {
+  margin-bottom: 20px;
+}
+
+.color-form-container h2 {
+  margin-top: 0;
+}
+
+.color-form-container form {
+  display: flex;
+  /* flex-direction: column; */
+}
+.error{
+  color: crimson;
+}
