@@ -47,3 +47,6 @@ dist-ssr
 *.sw?
 *.pdf
 *.txt
+
+# Código e materiais da aula
+Aula
